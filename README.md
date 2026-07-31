@@ -1,1 +1,1 @@
-# American-Option-pricing
+In this project, I have implemented two methods - Binomial Pricing model and Finite Differences method to price American options. I have also attempted to study how American option price changes with different input parameters for calls and puts and compared it with European option price.
